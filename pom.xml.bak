@@ -45,5 +45,10 @@
 			</plugin>
 		</plugins>
 	</build>
+
+    <scm>
+        <developerConnection>scm:git:git@github.com:com:mangeshrode1188/sfg-pet-clinic-2.git</developerConnection>
 <tag>HEAD</tag>
+  </scm>
+
 </project>
